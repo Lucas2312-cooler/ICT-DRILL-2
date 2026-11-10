@@ -45,10 +45,10 @@
 <br>
 <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
-<div style = "border: 10px; border-color: black; background-color: aliceblue; flex-wrap: nowrap; margin: 0; padding: 0;width: min-content; align-self: center;">
-<h1 style = "text-align: center; align-self: centers;">
-    WELCOME MONTESSORIANS, TO SY 2627
-</h1>
+<div style="border: 10px solid black; background-color: aliceblue; width: max-content; margin: 0 auto; padding: 20px;">
+    <h1 style="text-align: center; margin: 0;">
+        WELCOME MONTESSORIANS, TO SY 2627
+    </h1>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
