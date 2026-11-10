@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body style = "background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpb_mi8oebYl3yFcaMQikh_xdQjwRFlxplvlFki98fTmUnkZuPYwJJs-pl&s=10); background-repeat: no-repeat; background-size:cover">
+<nav class = "navbar navbar-expand-sm navbar-dark bg-primary" style="background-color: darkblue; ;">
+    <div class = "container-fluid">
+        <a class = "navbar-brand" href = ""> <img src = "https://scontent.fmnl8-8.fna.fbcdn.net/v/t39.30808-6/454355423_908179698009819_7137031726097029859_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2040&ctp=s2048x2040&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=_JoRy__WN6MQ7kNvwEorUC3&_nc_oc=AdrL1ymFWzW_ODNNkjk-fyfswxn-yfb1aT-7t1jp-r3J7cwnohG7jzkl2qCp9HvFQBQ&_nc_zt=23&_nc_ht=scontent.fmnl8-8.fna&_nc_gid=WhTVxRimRsNP32Yg08MBkQ&_nc_ss=7b289&oh=00_AQTRHar_MZqmHYf7E90kzzKnoawhvptdGU5jb_nIlTtI_g&oe=6AF8D825" style="width: 100px; height: auto;"> </a>
+    
+    
+    <ul class = "navbar-nav me-auto" style = "font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: large;">
+        <li class = "nav-item">
+            <a class = "nav-link" style = "color: aliceblue;">Home</a>
+        </li>
+        <li class = "nav-item">
+            <a class = "nav-link" style = "color: aliceblue;">Campus</a>
+        </li>
+        <li class = "nav-item">
+            <a class = "nav-link" style = "color:aliceblue">Admissions</a>
+        </li>
+         <li class = "nav-item">
+            <a class = "nav-link" style = "color:aliceblue">Academics</a>
+        </li>
+        <li class = "nav-item">
+            <a class = "nav-link" style = "color:aliceblue">Student Life</a>
+        </li>
+        <li class = "nav-item">
+            <a class = "nav-link" style = "color:aliceblue">Contact Us</a>
+        </li>
+        <button class = "btn btn-primary" class = "rounded-circle" type = "button" style = "background-color: black;"> 
+            Search
+        </button>
+        <form type = "text" style = "height: auto;">
+            <input type = "text" placeholder="Search here">
+        </form>
+
+    </ul>
+    </div>
+
+</nav>
+
+<br>
+<br>
+<br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<div style = "border: 10px; border-color: black; background-color: aliceblue; flex-wrap: nowrap; margin: 0; padding: 0;width: min-content; align-self: center;">
+<h1 style = "text-align: center; align-self: centers;">
+    WELCOME MONTESSORIANS, TO SY 2627
+</h1>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
